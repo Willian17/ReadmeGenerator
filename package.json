@@ -1,0 +1,24 @@
+{
+  "name": "ReadmeGenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Willian17/ReadmeGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Willian17/ReadmeGenerator/issues"
+  },
+  "homepage": "https://github.com/Willian17/ReadmeGenerator#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "inquirer": "^7.3.3"
+  }
+}
