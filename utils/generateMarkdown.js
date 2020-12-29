@@ -1,6 +1,6 @@
 function generateMarkdown(){
     return `
-    ![GitHub repo size](https://img.shields.io/github/repo-size/Willian17/CalculatorIF?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Willian17/CalculatorIF?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Willian17/CalculatorIF?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Willian17/CalculatorIF?style=for-the-badge)
   <a href="https://github.com/Willian17/weight-history/commits/master">

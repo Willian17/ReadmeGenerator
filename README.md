@@ -1,5 +1,5 @@
 
-    ![GitHub repo size](https://img.shields.io/github/repo-size/Willian17/CalculatorIF?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Willian17/CalculatorIF?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Willian17/CalculatorIF?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Willian17/CalculatorIF?style=for-the-badge)
   <a href="https://github.com/Willian17/weight-history/commits/master">
@@ -53,7 +53,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#executar)
 
 ## :construction_worker: Como executar <a name="executar"></a>
-bash
+
+```bash
 # Clone Repository
 $ git clone https://github.com/Willian17/proffy-nlw2.git
 
@@ -66,6 +67,7 @@ $ npm install
 $ yarn start 
 ou 
 $ npm start
+```
 
 
 
@@ -108,9 +110,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 Contribuições são sempre bem-vindas!
 
 1. Fork o Projeto
-2. Criar uma Branch (git checkout -b feature/AmazingFeature)
-3. Commit suas alterações (git commit -m 'Add some AmazingFeature)
-4. Push na Branch (git push origin feature/AmazingFeature)
+2. Criar uma Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit suas alterações (`git commit -m 'Add some AmazingFeature`)
+4. Push na Branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#licensa)
