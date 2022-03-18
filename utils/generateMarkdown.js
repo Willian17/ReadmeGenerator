@@ -21,7 +21,6 @@ function generateMarkdown(userResponses){
 <br />
 
 * [➤ Sobre o projeto](#sobre)
-* [Funcionalidades e melhorias](#melhorias)
 * [➤ Como executar](#executar)
 * [➤ Tecnologias](#tecnologias)
 * [➤ Colaboradores](#colaboradores)
@@ -40,18 +39,25 @@ function generateMarkdown(userResponses){
 
 ## :construction_worker: Como executar <a name="executar"></a>
 
-# Clone Repository
+### Clone Repository
 $ git clone https://github.com/${userResponses.username}/${userResponses.repositorio}.git
 
-# Instalar Dependencias
+### Instalar Dependencias
+\`\`\`
 $ yarn install 
+\`\`\`
 ou
+\`\`\`
 $ npm install
-
-# Executar Aplicação
-$ yarn start 
+\`\`\`
+### Executar Aplicação
+\`\`\`
+$ yarn ${userResponses.run}
+\`\`\`
 ou 
-$ npm start
+\`\`\`
+$ npm ${userResponses.run}
+\`\`\`
 
 
 
