@@ -7,15 +7,14 @@
     <img alt="license" src="https://img.shields.io/github/license/Willian17/ReadmeGenerator">
   </p>
   
-  <summary>📖 Sumário</summary>
-  
-  * [➤ Sobre o projeto](#sobre)
-  * [➤ Funcionalidades](#funcionalidades)
-  * [➤ Como executar](#executar)
-  * [➤ Tecnologias](#tecnologias)
-  * [➤ Contribuidores](#contribuidores)
-  * [➤ Como contribuir](#contribuir)
-  * [➤ Licença](#licenca)
+  <p align="center">
+    <a href="#sobre">Sobre</a> •
+    <a href="#funcionalidades">Funcionalidades</a> •
+    <a href="#executar">Como executar</a> •
+    <a href="#tecnologias">Tecnologias</a> •
+    <a href="#contribuidores">Contribuidores</a> •
+    <a href="#contribuir">Como contribuir</a>
+  </p>
   
   [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#sobre-o-projeto)
 
