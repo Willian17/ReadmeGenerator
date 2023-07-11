@@ -30,15 +30,13 @@ function sectionHeader(userResponses) {
 
 function sectionSummary(userResponses) {
   return `
-  <summary>📖 Sumário</summary>
-  
-  * [➤ Sobre o projeto](#sobre)
-  * [➤ Funcionalidades](#funcionalidades)
-  * [➤ Como executar](#executar)
-  * [➤ Tecnologias](#tecnologias)
-  * [➤ Contribuidores](#contribuidores)
-  * [➤ Como contribuir](#contribuir)
-  * [➤ Licença](#licenca)
+[➤ Sobre o projeto](#sobre)
+[➤ Funcionalidades](#funcionalidades)
+[➤ Como executar](#executar)
+[➤ Tecnologias](#tecnologias)
+[➤ Contribuidores](#contribuidores)
+[➤ Como contribuir](#contribuir)
+[➤ Licença](#licenca)
   `;
 }
 
