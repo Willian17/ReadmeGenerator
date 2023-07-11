@@ -48,7 +48,7 @@
 
 Ter o <a href="https://nodejs.org/en/">Node.js</a> instalado na maquina.
 
-### Clone Repository
+### Clonar Repositorio
 
 $ git clone https://github.com/Willian17/ReadmeGenerator.git
 
