@@ -10,10 +10,11 @@
   <p align="center">
     <a href="#sobre">Sobre</a> •
     <a href="#funcionalidades">Funcionalidades</a> •
-    <a href="#executar">Como executar</a> •
+    <a href="#executar">Executar</a> •
     <a href="#tecnologias">Tecnologias</a> •
     <a href="#contribuidores">Contribuidores</a> •
-    <a href="#contribuir">Como contribuir</a>
+    <a href="#contribuir">Contribuir</a> •
+    <a href="#licenca">Licença</a>
   </p>
   
   [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#sobre-o-projeto)
