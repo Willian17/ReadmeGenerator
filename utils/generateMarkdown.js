@@ -17,8 +17,7 @@ function sectionsMarkdown(userResponses) {
 }
 
 function sectionHeader(userResponses) {
-  return `
-  <h1 align="center"> ${userResponses.titulo} </h1>
+  return `<h1 align="center"> ${userResponses.titulo} </h1>
 
   <p align="center">
     <img alt="Last commit" src="https://img.shields.io/github/last-commit/${userResponses.username}/${userResponses.repositorio}">
@@ -120,18 +119,9 @@ function sectionContributors(userResponses) {
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-<table>
-<tr>
-<td align="center">
-<a href="#">
-  <img src="https://avatars2.githubusercontent.com/u/53010824?s=460&u=40f41a9ce155fe1a214f422849ad88fd7f0b9710&v=4" width="100px;" alt="Foto do Willian Fernandes no GitHub"/><br>
-  <sub>
-    <b>Willian Fernandes</b>
-  </sub>
+<a href = "https://github.com/${userResponses.username}/${userResponses.repositorio}/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=${userResponses.username}/${userResponses.repositorio}"/>
 </a>
-</td>
-</tr>
-</table>
 
 `;
 }

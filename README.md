@@ -1,91 +1,88 @@
+  <h1 align="center"> Gerador de Readme </h1>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Willian17/ReadmeGenerator?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/Willian17/ReadmeGenerator?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/Willian17/ReadmeGenerator?style=for-the-badge)
-<a href="https://github.com/Willian17ReadmeGenerator/commits/master">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Willian17/ReadmeGenerator?color=774DD6&style=for-the-badge">
-</a> 
-<a href="https://github.com/Willian17/model-complete-readme/stargazers">
-<img alt="Stargazers" src="https://img.shields.io/github/stars/Willian17/ReadmeGenerator?style=for-the-badge&logo=github">
-</a>
-
-<p align="center">
-
-<h1 align="center"> Gerador de Readme </h3>
-
-<p align="center"><i>Gerador de Readme.md para repositórios do github (Input pelo terminal)</i></p>
-
-<details>
-<summary>📖 Conteúdo</summary>
-<br />
-
-* [➤ Sobre o projeto](#sobre)
-* [➤ Como executar](#executar)
-* [➤ Tecnologias](#tecnologias)
-* [➤ Colaboradores](#colaboradores)
-* [➤ Contribuidores](#contribuir)
-* [➤ Licença](#licenca)
-</details>
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#sobre-o-projeto)
+  <p align="center">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/Willian17/ReadmeGenerator">
+    <img alt="stars" src="https://img.shields.io/github/stars/Willian17/ReadmeGenerator?logo=github">
+    <img alt="size" src="https://img.shields.io/github/repo-size/Willian17/ReadmeGenerator">
+    <img alt="license" src="https://img.shields.io/github/license/Willian17/ReadmeGenerator">
+  </p>
+  
+  <summary>📖 Sumário</summary>
+  
+  * [➤ Sobre o projeto](#sobre)
+  * [➤ Funcionalidades](#funcionalidades)
+  * [➤ Como executar](#executar)
+  * [➤ Tecnologias](#tecnologias)
+  * [➤ Contribuidores](#contribuidores)
+  * [➤ Como contribuir](#contribuir)
+  * [➤ Licença](#licenca)
+  
+  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#sobre-o-projeto)
 
 ## :pushpin: Sobre o Projeto <a name="sobre"></a>
-<div>
-<img src="https://user-images.githubusercontent.com/53010824/159083628-08ca4a43-5a29-4729-8880-8a444e57a8e4.png" width="400px">
-</div>
+
+  <div>
+  <p>Gerador de Readme.md para repositórios do github de forma dinamica e automatica, arquivo extremamente importante para documentar repositórios.</p>
+  <img src="https://user-images.githubusercontent.com/53010824/159083628-08ca4a43-5a29-4729-8880-8a444e57a8e4.png" width="400px">
+  </div>
+  
+  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#funcionalidades)
+
+## :rocket: Funcionalidades <a name="funcionalidades"></a>
+
+- [x] Gerar readme com diversas seções
+- [x] header
+- [x] sumário
+- [x] sobre o projeto
+- [x] funcionalidades
+- [x] como rodar
+- [x] tecnologias
+- [x] contribuidores
+- [x] como contribuir
+- [x] licença
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#executar)
 
 ## :construction_worker: Como executar <a name="executar"></a>
 
+### Pré-requisitos
+
+Ter o <a href="https://nodejs.org/en/">Node.js</a> instalado na maquina.
+
 ### Clone Repository
+
 $ git clone https://github.com/Willian17/ReadmeGenerator.git
 
 ### Instalar Dependencias
-```
-$ yarn install 
-```
-ou
+
 ```
 $ npm install
 ```
+
 ### Executar Aplicação
-```
-$ yarn start
-```
-ou 
+
 ```
 $ npm start
 ```
 
-
-
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](##tecnologias)
 
 ## :computer: Tecnologias <a name="tecnologias"></a>
+
 <ul>
-<li>Node.js</li>
+<li>Node</li>
 <li>Inquirer</li>
 </ul>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-## 🤝 Colaboradores <a name="colaboradores"></a>
+## 🤝 Contribuidores <a name="contribuidores"></a>
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-<table>
-<tr>
-<td align="center">
-<a href="#">
-  <img src="https://avatars2.githubusercontent.com/u/53010824?s=460&u=40f41a9ce155fe1a214f422849ad88fd7f0b9710&v=4" width="100px;" alt="Foto do Willian Fernandes no GitHub"/><br>
-  <sub>
-    <b>Willian Fernandes</b>
-  </sub>
+<a href = "https://github.com/Willian17/ReadmeGenerator/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=Willian17/ReadmeGenerator"/>
 </a>
-</td>
-</tr>
-</table>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#contribuidores)
 
@@ -103,8 +100,8 @@ Contribuições são sempre bem-vindas!
 
 ## 📝 Licença <a name="licenca"></a>
 
-Esse projeto está sob licença MIT.
+Esse projeto está sob licença [MIT](LICENSE.md).
 
-## :man_astronaut: Mostre seu apoio 
+## :man_astronaut: Mostre seu apoio
 
 Dê uma ⭐️ se esse projeto te ajudou!
